@@ -1,0 +1,26 @@
+# Arquivos de ambiente virtual
+analise_de_sentimentos/venv/
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs
+*.log
+
+# Configurações do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos temporários
+*.tmp
+*.swp
+*.swo
+
+venv/
+
+# Arquivos de IDE
+.vscode/
+.idea/
+*.iml
